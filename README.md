@@ -1,24 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Для приложения Lab8 необходимо релаизовать клиентскую и сеерверную части. Сделать 3 варианта ответа:
+1) Вывод данных в формате xml
+2) Вычислить и преобразовать данные на сервере, затем вывести на клиент 
+3) Вычислить на сервере, затем загрузить преобразователь xslt на клиент и преобразовать данные непосредственно на клиенте.
